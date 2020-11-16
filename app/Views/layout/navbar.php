@@ -28,9 +28,9 @@
             <li><a href="<?= base_url('calon/calon3') ;?>">capresma 3</a></li>
           </ul>
         </li>
-        <li><a href="#team">E-vote</a></li>
-        <li><a href="#team">Quick Count</a></li>
-        <li><a href="<?= base_url('login') ;?>">Logout</a></li>
+        <li><a href="<?= base_url('vote/index') ;?>">E-vote</a></li>
+        <li><a href="<?= base_url('count/index') ;?>">Quick Count</a></li>
+        <li><a href="#">Sign in</a></li>
       </ul>
       </nav><!-- .main-nav-->
 

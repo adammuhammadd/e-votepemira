@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Rapid Bootstrap Template - Index</title>
+  <title>PEMIRA</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -27,12 +27,8 @@
   <!-- Template Main CSS File -->
   <link href="<?= base_url('rapid') ;?>/assets/css/style.css" rel="stylesheet">
   <link href="<?= base_url('rapid') ;?>/assets/css/timline.css" rel="stylesheet">
-  <!-- =======================================================
-  * Template Name: Rapid - v2.2.0
-  * Template URL: https://bootstrapmade.com/rapid-multipurpose-bootstrap-business-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+  <link href="<?= base_url('grafik') ?>/css/jquery.simple-bar-graph.min.css" rel="stylesheet">
+
 </head>
 
 <body>
@@ -50,10 +46,11 @@
   <script src="<?= base_url('rapid') ;?>/assets/vendor/owl.carousel/owl.carousel.min.js"></script>
   <script src="<?= base_url('rapid') ;?>/assets/vendor/waypoints/jquery.waypoints.min.js"></script>
   <script src="<?= base_url('rapid') ;?>/assets/vendor/aos/aos.js"></script>
+  <script src="<?= base_url('grafik') ?>/js/jquery.simple-bar-graph.min.js"></script>
 
   <!-- Template Main JS File -->
   <script src="<?= base_url('rapid') ;?>/assets/js/main.js"></script>
-
+  
 </body>
 
 </html>

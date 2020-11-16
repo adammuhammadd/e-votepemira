@@ -1,0 +1,33 @@
+CRITICAL - 2020-11-14 20:57:36 --> Undefined variable: projek
+#0 C:\xampp\htdocs\e-votepemira\app\Views\quickcount\index.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 48, Array)
+#1 C:\xampp\htdocs\e-votepemira\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\e-votepemira\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('quickcount/inde...', Array, true)
+#3 C:\xampp\htdocs\e-votepemira\app\Controllers\Count.php(7): view('quickcount/inde...')
+#4 C:\xampp\htdocs\e-votepemira\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Count->index()
+#5 C:\xampp\htdocs\e-votepemira\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Count))
+#6 C:\xampp\htdocs\e-votepemira\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\e-votepemira\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\e-votepemira\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-11-14 21:00:19 --> Undefined variable: projek
+#0 C:\xampp\htdocs\e-votepemira\app\Views\quickcount\index.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 48, Array)
+#1 C:\xampp\htdocs\e-votepemira\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\e-votepemira\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('quickcount/inde...', Array, true)
+#3 C:\xampp\htdocs\e-votepemira\app\Controllers\Count.php(7): view('quickcount/inde...')
+#4 C:\xampp\htdocs\e-votepemira\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Count->index()
+#5 C:\xampp\htdocs\e-votepemira\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Count))
+#6 C:\xampp\htdocs\e-votepemira\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\e-votepemira\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\e-votepemira\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-11-14 21:00:22 --> Undefined variable: projek
+#0 C:\xampp\htdocs\e-votepemira\app\Views\quickcount\index.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 48, Array)
+#1 C:\xampp\htdocs\e-votepemira\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\e-votepemira\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('quickcount/inde...', Array, true)
+#3 C:\xampp\htdocs\e-votepemira\app\Controllers\Count.php(7): view('quickcount/inde...')
+#4 C:\xampp\htdocs\e-votepemira\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Count->index()
+#5 C:\xampp\htdocs\e-votepemira\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Count))
+#6 C:\xampp\htdocs\e-votepemira\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\e-votepemira\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\e-votepemira\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
